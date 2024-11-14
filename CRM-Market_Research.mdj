@@ -121895,7 +121895,7 @@
 													},
 													"font": "Arial;13;0",
 													"parentStyle": true,
-													"left": 32.72998046875,
+													"left": 80.72998046875,
 													"top": 5,
 													"width": 254.6552734375,
 													"height": 13,
@@ -121909,7 +121909,7 @@
 													},
 													"font": "Arial;13;1",
 													"parentStyle": true,
-													"left": 13,
+													"left": 61,
 													"top": 5,
 													"width": 13.72998046875,
 													"height": 13,
@@ -121918,7 +121918,7 @@
 											],
 											"font": "Arial;13;0",
 											"parentStyle": false,
-											"left": 8,
+											"left": 56,
 											"width": 1160,
 											"height": 592,
 											"nameLabel": {
@@ -124728,13 +124728,13 @@
 													},
 													"font": "Arial;13;0",
 													"parentStyle": false,
-													"left": 205.53173828125,
-													"top": 295,
-													"width": 389.9365234375,
+													"left": 175.919921875,
+													"top": 288,
+													"width": 397.16015625,
 													"height": 13,
-													"alpha": 0.6998927400596202,
-													"distance": 49.678969393496885,
-													"text": "7 : showErrorMessage(in message:String): void.доступ до системи"
+													"alpha": 1.2722971609745,
+													"distance": 40.80441152620633,
+													"text": "7 : showErrorMessage(in message:String): void / доступ до системи"
 												},
 												{
 													"_type": "NodeLabelView",
@@ -124921,7 +124921,7 @@
 									"_parent": {
 										"$ref": "AAAAAAGTKmvv1TnVvA4="
 									},
-									"name": "showErrorMessage(in message:String): void.доступ до системи",
+									"name": "showErrorMessage(in message:String): void / доступ до системи",
 									"source": {
 										"$ref": "AAAAAAGTKm48NDym8ME="
 									},
